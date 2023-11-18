@@ -1,6 +1,10 @@
 # Countdown Timer
 Der Timer ist als Hilfestellung für Vortragende im Rahmen einer mehrtägigen Konferenz mit mehreren Vortragspodien entstanden. Nach dem Apelprinzip grün (0-75), gelb (75-90) rot (90-100%), wird dem Vortragenden die noch verbleibende Zeit angezeigt. Nach Ablauf blinkt die Scheibe dezent auf.
 
+## Beispiel und Demo
+![Screenshot vom Countdown im Browser](/img/screenshot.png)
+https://pantox.de/countdown
+
 ## Bedienung
 Textfeld für Timereingabe von 00:01-59:59 im Format MM:SS eingeben und mit Play-Knopf starten. Läuft der Timer kann über die Pause-Taste pausiert werden, die Schaltfläche wechselt zwischen Play und Pause. Über Stopp-Schaltfläche wird der Timer angehalten und zurückgesetzt. Mit der Anzeige-Schaltfläche kann die Uhr aus- und eingeblendet werden.
 
