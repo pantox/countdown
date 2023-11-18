@@ -1,0 +1,70 @@
+@font-face { 
+	font-family: 'Consola';
+    src: url('../fonts/consola.ttf') format('truetype'); 
+}
+.container {
+	text-align: center;
+	width: 100%;
+}
+#timer {
+	position: absolute;
+	width: 20%;
+	top: 50%;
+	left: 50%;
+	background: rgba(255,255,255,0.7);
+}
+#timer input[type="text"] {
+	float: left;
+	padding: 0;
+	margin: 0;
+	font-family: "Consola", monospace;
+	border:none;
+	background: none;
+	width: 40%;
+	font-size: 500%;
+	font-weight: bold;
+	color: black;
+}
+
+input[type="text"]#min  {
+	text-align: right;
+}
+input[type="text"]#colon  {
+	text-align: center;
+	width: 20%;
+}
+input[type="text"]#sec  {
+	text-align: left;
+}
+#control {
+	position: absolute;
+	bottom: 1em;
+	right: 3em;
+	width: 2em;
+}
+#start, #stop, #mode  {
+	color: white;
+	cursor: pointer;
+}
+.button-xlarge {
+	font-size: 2em;
+	padding: 0;
+	width: 2em;
+	height: 2em;
+	margin-bottom: 0.1em;
+}
+.button-success {
+    background: #5cb85c;
+}
+.button-error {
+    background: #c9302c; 
+}
+.button-secondary {
+    background: #5bc0de;
+}
+.button-warning {
+		background: #f0ad4e;
+}
+.button-iab {
+    background: #66c0de;
+}
