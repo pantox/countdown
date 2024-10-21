@@ -3,7 +3,7 @@ Der Timer ist als Hilfestellung für Vortragende im Rahmen einer mehrtägigen Ko
 
 ## Beispiel und Demo
 ![Screenshot vom Countdown im Browser](/img/screenshot.png)
-https://pantox.de/countdown
+https://countdown.pantox.de
 
 ## Bedienung
 Textfeld für Timereingabe von 00:01-59:59 im Format MM:SS eingeben und mit Play-Knopf starten. Läuft der Timer kann über die Pause-Taste pausiert werden, die Schaltfläche wechselt zwischen Play und Pause. Über Stopp-Schaltfläche wird der Timer angehalten und zurückgesetzt. Mit der Anzeige-Schaltfläche kann die Uhr aus- und eingeblendet werden.
